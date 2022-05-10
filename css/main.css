@@ -3407,9 +3407,9 @@ div.row.c-gutter-0 {
     padding-top: 100px
 }
 
-.s-pt-130>[class*=container] {
+/* .s-pt-130>[class*=container] {
     padding-top: 130px
-}
+} */
 
 .s-pb-0>[class*=container] {
     padding-bottom: 0
@@ -19577,7 +19577,7 @@ a.btn {
 }
 
 .gallery-carousel .filters a {
-    margin: 0 14px;
+    /* margin: 0 14px; */
     padding: 0
 }
 
@@ -22326,18 +22326,6 @@ input[type=text].search-text {
     .book-item .book .stage div {
         padding: 30px
     }
-}
-
-.book-item .book .stage.book-1 div {
-    background-image: url(../images/book-hov-3.png)
-}
-
-.book-item .book .stage.book-2 div {
-    background-image: url(../images/book-hov-2.png)
-}
-
-.book-item .book .stage.book-3 div {
-    background-image: url(../images/book-hov-1.png)
 }
 
 .book-item .book .stage * {
